@@ -60,9 +60,8 @@ This plugin has previously been tested with Unreal Engine versions;
  * 4.20.3
  * **4.23** (by [Luigi Freda](http://www.luigifreda.com), fixed bugs with smart pointer management)
  * 4.24 
- 
 Please note that this list is a tracker of which UE4 versions have been previously tested. It is not guaranteed that the most recent version of ROSIntegration is working with all previous UE4 versions.
-
+ * 5-ea (by [Gao Geolone](https://github.com/GaoGeolone/ros2bridge_suite), apply this plugin on windows with ros2, A new branch of TCP rosbridge_suite is recommended)
 ## Usage
 
 ### Setting up the plugin
